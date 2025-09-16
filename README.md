@@ -4,3 +4,4 @@ Simple starter project for Week 1 Git/GitHub practice.
 
 ## How to run
 Open `index.html` in your browser.
+- Documented v2 database plan
